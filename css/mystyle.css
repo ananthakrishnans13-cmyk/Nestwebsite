@@ -1,0 +1,16 @@
+div{
+ background-color: dimgray;
+ margin-top: 50px;
+}
+p{
+    color: white;
+}
+footer{
+    background-color:black;
+    color: white;
+}
+.carousel-inner img {
+    width: 600px;
+    height: 450px;
+    margin: auto;         
+  }
